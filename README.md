@@ -10,6 +10,7 @@ HTT8888 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://solo.hackful.cn/my-github-repos)
 * [hello](http://solo.hackful.cn/articles/2019/10/15/1571145453078.html)
 * [世界，你好！](http://solo.hackful.cn/hello-solo)
 
